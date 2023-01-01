@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://user-images.githubusercontent.com/117820555/210172176-d70c2eac-4239-469d-b512-ff9fc216de24.png)
 <h1 align="center">Hi 👋 coders </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
