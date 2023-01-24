@@ -1,7 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/117820555/210172176-d70c2eac-4239-469d-b512-ff9fc216de24.png)
 
-[![MasterHead](https://user-images.githubusercontent.com/117820555/210172952-5d11e1d3-fd79-4ffc-83af-eef830376bb6.png)
-
 <h1 align="center">Hi 👋 coders </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
