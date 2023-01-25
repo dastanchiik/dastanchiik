@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋 coders </h1>
+
 [![MasterHead](https://user-images.githubusercontent.com/117820555/210172176-d70c2eac-4239-469d-b512-ff9fc216de24.png)
 
-<h1 align="center">Hi 👋 coders </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
